@@ -12,4 +12,4 @@ Equivante SQL para CRUD - Comandos:
 --------------------------------------------------------------------------------------------------
 Projeto utilizando o MySQL 
 
-minha página, disponível em:https://gustavopinheiro39.github.io/lojabob/
+minha página, disponível em:https:/zolotareff.github.io/lojabob/
